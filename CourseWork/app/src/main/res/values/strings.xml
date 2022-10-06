@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CourseWork</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="write">Добавить вручную</string>
+    <string name="code">Добавить лекарство по штрихкоду</string>
+    <string name="medicine_name">Название</string>
+    <string name="medicine_info">Описание</string>
+    <string name="medicine_date">Срок годности</string>
+    <string name="medicine_count">Количество</string>
+    <string name="add">Добавить</string>
+    <string name="MedicineName">Название лекарства</string>
+    <string name="PersonName">Кому прописано</string>
+    <string name="time">Время приема</string>
+    <string name="Count">Количество</string>
+    <string name="Time">Время приема</string>
+    <string name="Name">Название</string>
+    <string name="DateNorm">Срок годности</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="write_main">Добавить лекарство вручную</string>
+    <string name="write_therapy">Добавить график приема</string>
+</resources>
